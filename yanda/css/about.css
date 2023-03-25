@@ -1,0 +1,12 @@
+body { background-color: rgb(172, 194, 202); }
+
+.about {
+    padding: 3rem 2rem;
+    display: table;  /* Instead of display:block */
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+    background: rgb(48, 95, 122);
+    border-radius: 25px;
+}
